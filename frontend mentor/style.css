@@ -1,0 +1,150 @@
+*{
+  margin:0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border:border-box;
+}
+#navbar{
+  align-items: center;
+  height: 47.6px;
+   background-color: rgb(35, 35, 202);
+   color: white ;
+   display:flex;
+   justify-content: center;
+}
+.mm{
+    display:flex;
+    justify-content: space-evenly;
+}
+.m1{
+   margin-right: 16px;
+}
+.f{
+  font-size: 14px;
+}
+.panel{
+  height: 70.6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.panel1{
+  margin-right:300px;
+  display: inline;
+}
+.panel3{
+   margin-bottom:14px;
+}
+.but{
+  height: 28px;
+  background-color: black;
+  color: white;
+}
+.centre{
+  margin-top:100px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.box{
+   margin-left:14px;
+   height:529px;
+   color: blue;
+   width: 44%;
+}
+.box2{
+   margin-top:25px;
+   font-size: 18px;
+   color: black;
+}
+.box3{
+   margin-top: 30px;
+}
+.boxbut{
+  display:flex;
+  height: 50px;
+}
+.but2{
+  background-color: red;
+  color: white;
+}
+.box4{
+     display: flex;
+     color: black;
+     margin-top: 30px;
+}
+.box42{
+     margin-left: 50px;
+}
+.end{
+  margin-top:100px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.b{
+  margin-left:14px;
+   height:448px;
+   color: blue;
+   width: 44%;
+   background-color: whitesmoke;
+}
+.ebox11{
+  margin-top:20px;
+  display: flex;
+  justify-content: center;
+}
+.ebox12{
+   font-size: 20px;
+   margin-top: 44px;
+   color: black;
+}
+.ebox13{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.ebox21{
+  margin-top:20px;
+  display: flex;
+  justify-content: center;
+}
+.ebox22{
+   font-size: 20px;
+   margin-top: 44px;
+   color: black;
+}
+.ebox23{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.endk{
+  align-items: center;
+  display: flex;
+  margin-top: 80px;
+  justify-content: center;
+}
+.endl{
+  margin-top: 30px;
+  display: flex;
+}
+.jj{
+  height: 100px;
+  width:30%;
+  margin-left: 48px;
+  background-color:antiquewhite;
+}
+.end1{
+  display: flex;
+   justify-content: center;
+   
+}
+.end2{
+  display: flex;
+   justify-content: center;
+   
+}
+.end3{
+  display: flex;
+   justify-content: center;
+   
+}
+
